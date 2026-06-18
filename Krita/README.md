@@ -1,0 +1,1 @@
+Käännän parhaillani Krita-digitaalimaalausohjelmaa. Kun saan käännökseni valmiiksi, lisään .mo- ja .po-tiedostot tänne. Krita on käännetty suomeksi pääosin, mutta monet kohdat on käännetty virheellisesti tai epäselvästi. Olen siis tekemässä korjauskäännöstä.
