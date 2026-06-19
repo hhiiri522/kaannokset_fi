@@ -1,5 +1,7 @@
 Julkaisen pian Variety-apuohjelman suomenkielisen, parannellun käännöksen tähän kansioon.
 
+If you want to read the information in English, scroll down, because the English version is down of this file.
+
 <b>Käännöksen tiedot</b>
 
 - Käyttöjärjestelmä: Linux Mint 22.3 "Zena" Cinnamon 64-bit
@@ -14,3 +16,14 @@ Julkaisen pian Variety-apuohjelman suomenkielisen, parannellun käännöksen tä
 - Määritä Varietyn asetuksista, että haluat lähteeksi vain paikalliset tekstitiedostot, et mitään muita lähteitä. Muista, että paikalliset tekstitiedostot tarkoittaa oikeasti vain /home/<käyttäjänimi>/.config/variety/pluginconfig/quotes.txt-tiedoston sisältöä.
 
 - Soturikissat-kirjoissa on erittäin hyviä lauseita ja ilmaisuja. Olen lukenut niitä itse viime aikoina. Ajattelin, että niissä voisi olla loistava teesivarasto suomenkieliselle käyttäjäkunnalle.
+
+<b>Info of the translation</b>
+
+- OS: Linux Mint 22.3 "Zena" Cinnamon 64-bit
+- Variety version: 0.8.12
+- Translation made: June 2026
+- Contact: hhiiri522@gmail.com
+
+<b>Finnish quotes</b>
+
+- If you want to enable the Finnish quotes (from Warrior Cats), copy ...
