@@ -23,7 +23,3 @@ If you want to read the information in English, scroll down, because the English
 - Variety version: 0.8.12
 - Translation made: June 2026
 - Contact: hhiiri522@gmail.com
-
-<b>Finnish quotes</b>
-
-- If you want to enable the Finnish quotes (from Warrior Cats), copy ...
