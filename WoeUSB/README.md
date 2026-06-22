@@ -1,0 +1,1 @@
+WoeUSB on Linux-ohjelma, jolla voidaan luoda Windowsin asennusmedia. Microsoftin omia työkaluja ei Linuxille saa, joten WoeUSB on kätevä tapa luoda Windowsin asennusmedia, vaikkei Windows-konetta olisikaan saatavilla. Olen tehnyt ohjelmistosta suomenkielisen käännöksen.
